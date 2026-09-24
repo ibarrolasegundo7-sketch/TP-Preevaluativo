@@ -1,6 +1,7 @@
 # Trabajo Práctico de Pre-Evaluación: "Sistema de Control de Accesos y CRUD Seguro en PHP"
 
 **Objetivo:** Validar la capacidad de evolucionar una aplicación web básica hacia un sistema profesional, implementando control de acceso, persistencia de estado mediante sesiones y mecanismos de seguridad contra las vulnerabilidades más comunes en aplicaciones web.
+
 **Situación problemática:** Son contratados para desarrollar en la empresa inmobiliaria "Campos Jeppeneros" la cual les solicita un sistema que conste de una interface con validación de usuarios y niveles (admin, comun). Dicha interface web contará con la visualización de los lotes que tienen en venta. Cada lote tendrá un precio, localidad y descripción acompañado con una foto. Los usuarios comunes solo podrán visualizar la información y los administradores agregar/modificar/eliminar elementos.
 
 ---
